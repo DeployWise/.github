@@ -1,8 +1,3 @@
-
-![image](https://github.com/DeployWise/.github/assets/67182544/bcfe179f-1b74-432b-8771-2b29c88244ba)
-
-<hr/>
-
 # DeployWise: Simplify, Deploy, Observe: Effortless Machine Learning Management
 
 
