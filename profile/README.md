@@ -1,4 +1,4 @@
-#DeployWise: Simplify, Deploy, Observe: Effortless Machine Learning Management
+# DeployWise: Simplify, Deploy, Observe: Effortless Machine Learning Management
 
 
 Simplifying Deployment and Maintenance for ML Engineers and Data Scientists!
