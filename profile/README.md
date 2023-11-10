@@ -1,6 +1,5 @@
 # DeployWise: Simplify, Deploy, Observe: Effortless Machine Learning Management
 
-
 Simplifying Deployment and Maintenance for ML Engineers and Data Scientists!
 Welcome to Deploywise, your ultimate solution for tackling the complexities of deploying, maintaining, and capitalizing on your machine learning applications. As a machine learning engineer or data scientist, you understand that developing cutting-edge applications is just the first step. The real challenge often lies in the deployment, maintenance, and monetization phases. That's where Deploywise steps in to make your life easier.
 
@@ -22,3 +21,5 @@ Turning your ML projects into profitable ventures is a priority. Deploywise prov
 - **Analytics and Insights**: Gain valuable insights into user behavior and capitalize on monetization opportunities.
 - **Customization**: Tailor Deploywise to your specific needs with customizable features and integrations.
 - **Scalability**: Whether you're handling small-scale projects or large-scale deployments, Deploywise scales with you.
+
+<img src="https://github.com/DeployWise/.github/assets/67182544/9ddc6537-ad5a-4bf8-b3c5-ae8bf6a968d8" alt="Your Image Alt Text" height="300px" width="300px">
